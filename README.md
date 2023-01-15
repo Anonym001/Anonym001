@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anonym001
 - 👀 I’m interested in Python. 
-- 🌱 I’m currently learning Nothing. 
-- 💞️ I’m looking to collaborate on NOTHING 
+- 🌱 I’m currently learning Kotlin. 
+- 💞️ I’m looking to collaborate on music app. 
 
 
 <!---
